@@ -1,44 +1,31 @@
-Johnny Coder
+方舟
 ============
 
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
+教育经历
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2008-2011 
+:   **软件工程**; 武汉软件工程职业学院
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+工作经验
 ----------
 
-**Your Most Recent Work Experience:**
+**2014年6月~2015年4月，通联数据:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+作为OpenStack开发工程师进入公司，后由于业务调整弃用OpenStack后改做统一应用平台服务开发等工作，包括以下主要内容：
 
-* First item
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
+* IaaS平台的搭建
+
+* 统一应用Gateway的开发维护
+
+* 统一消息服务的开发维护
+
+* PaaS应用管理模块开发
+
+
+**2013年6月~2014年5月**
 
 Also with a short description.
 
@@ -96,5 +83,4 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <rothcold@gmail.com> • +86 18086051151 • 26 years old\
