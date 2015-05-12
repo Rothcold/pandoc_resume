@@ -10,7 +10,7 @@
 工作经验
 ----------
 
-**2014年6月~2015年4月，通联数据:**
+**2014年6月~2015年4月：通联数据**
 
 作为OpenStack开发工程师进入公司，后由于业务调整弃用OpenStack后改做统一应用平台服务开发等工作，包括以下主要内容：
 
@@ -25,62 +25,43 @@
 * PaaS应用管理模块开发
 
 
-**2013年6月~2014年5月**
+**2012年9月~2014年5月：上海洲思科技**
 
-Also with a short description.
 
-Technical Experience
+* 底层 API 架构设计。 
+
+* 虚拟主机管理模块(包括虚拟主机,虚拟磁盘,虚拟网络,虚拟交换机等一系列相关开发) 
+
+* 分布式云存储管理模块(包括块设备管理,云盘服务等) 
+
+* 基于 Quantum 的 SDN 模块开发
+
+**2010年8月~2012年8月：中国惠普**
+
+已实习生身份加入中国惠普，经历CSP（Cloud Service Platform）以及POMS两大项目，本人的工作内容包括以下：
+
+* 多平台虚拟化统一管理系统
+
+* IaaS监控及计费系统
+
+* 超大型企业级项目通用汽车订单管理系统的维护
+
+
+
+
+技术背景
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+编程语言
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+:   **Python:** 本人最爱的编程语言，多年服务器程序开发，熟悉Pythonic概念
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   **Java:** 主修学习语言，多年实际项目经验。
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **JavaScript:** Web开发必修语言，熟练掌握回调以及Promise，Event Emitter等各种回调优化品，以及MVVM双向绑定等新概念。
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+:   熟悉 **C**, **Objective-C**, **PHP**, **Ruby** 等多种语言。
 
 ----
 
-> <rothcold@gmail.com> • +86 18086051151 • 26 years old\
+> <rothcold@gmail.com> • +86 18086051151 • 1989年生人
